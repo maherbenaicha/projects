@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+input {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+li {
+  margin: 10px 0;
+  list-style: none;
+}
